@@ -25,7 +25,7 @@ object Config {
   const val TMDB_BASE_URL = "https://api.themoviedb.org/3/"
   const val TMDB_API_KEY = BuildConfig.TMDB_API_KEY
 
-  const val OMDB_BASE_URL = "https://private.omdbapi.com/"
+  const val OMDB_BASE_URL = "https://omdbapi.com/"
   const val OMDB_API_KEY = BuildConfig.OMDB_API_KEY
 
   const val AWS_BASE_URL = "https://showly2.s3.eu-west-2.amazonaws.com/"
