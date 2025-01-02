@@ -308,7 +308,7 @@
 
   <style name="ShowlySwitch.Overlay" parent="">
     <item name="colorPrimary">@color/colorAccent</item>
-    <item name="colorPrimaryContainer">#4DF44336</item>
+    <item name="colorPrimaryContainer">@android:color/system_accent1_600</item>
   </style>
 
   <style name="ShowlyChip" parent="Widget.Material3.Chip.Suggestion">
